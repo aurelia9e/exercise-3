@@ -1,0 +1,32 @@
+.button1 {
+	background-color: #21295c;
+	color: #ffd07b;
+	font-family: monospace;
+}
+
+body {
+	font: monospace;
+	background-color: #21295c;
+	color: #b1740f;
+
+	}
+
+h1 {
+	color: #ffd07b;
+	font-family: monospace;
+}
+
+p {
+	font-family: monospace;
+}
+
+label {
+	font-family: monospace;
+}
+
+.container_1 {
+	margin-top: 10px;
+	padding: 25px;
+	background-color:#ffd07b;
+	color:#b1740f;
+}
